@@ -3,7 +3,7 @@
 This repository is for the **hackathon submission, presentation, and video** — not the application code.
 
 - **Presentation:** [SPFx Foundry Agents (Gamma)](https://spfx-foundry-agents-q4yxhnm.gamma.site/)
-- **Source code:** [SPFx.FoundryAgents](https://github.com/Nemoura-Labs/SPFx.FoundryAgents) (separate repo)
+- **Source code:** SPFx.FoundryAgents (separate repo — private for the moment)
 
 ---
 
