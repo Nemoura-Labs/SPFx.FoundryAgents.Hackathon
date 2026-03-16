@@ -1,5 +1,7 @@
 # SPFx Foundry Agents — Hackathon submission
 
+![SPFx Foundry Agents Cover](https://www.nemoura.com/wp-content/uploads/assets/microsoft/spfx-foundry-agents-cover.jpg)
+
 This repository is for the **hackathon submission, presentation, and video** — not the application code.
 
 - **Presentation:** [SPFx Foundry Agents (Gamma)](https://spfx-foundry-agents-q4yxhnm.gamma.site/)
