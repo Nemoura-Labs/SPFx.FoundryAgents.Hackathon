@@ -5,6 +5,7 @@
 This repository is for the **hackathon submission, presentation, and video** — not the application code.
 
 - **Presentation:** [SPFx Foundry Agents (Gamma)](https://spfx-foundry-agents-q4yxhnm.gamma.site/)
+- **Video:** [SPFx Foundry Agents - How to Embed Azure AI Foundry Agents in SharePoint & Microsoft Teams with SPFx](https://youtu.be/nfPgAZ7pu34)
 - **Source code:** SPFx.FoundryAgents (separate repo — private for the moment)
 
 ---
